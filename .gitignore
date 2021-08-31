@@ -1,0 +1,5 @@
+*.pyc
+data/
+pretrained_models/
+pretrained_models
+.ipynb
